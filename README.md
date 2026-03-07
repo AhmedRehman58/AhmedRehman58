@@ -1,6 +1,3 @@
-# 💫 About Me:
-Building intelligent AI Agents, automating workflows, and developing cool projects<br>Open-source AI projects, machine learning models, and building scalable automation products.<br>Mastering advanced Machine Learning concepts and tackling complex real-world data science problems.<br>Deep diving into a comprehensive ML Engineering roadmap, advanced Python, and Data Science.<br>Python programming, Software Engineering concepts, setting up smart automations, and tech entrepreneurship.<br>While pursuing my BE in Software Engineering, I'm actively working on building my own AI automation company!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-rehman-2171a0326)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedrehman5858@gmail.com) 
